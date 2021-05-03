@@ -1,0 +1,27 @@
+body {
+  display: inline;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  height: 70px;
+}
+.navigation-bar{
+    background-color: pink;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+
+}
+navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  }
+
+img {
+  height: 10%;
+  width: 10%;
+}
