@@ -1,9 +1,10 @@
 import "./navbar.css";
 export default function NavBar() {
   return (
-    <div className="navigation-bar">
-      <div className="container">
-        <img src="https://i.imgur.com/mMNUC5g.png" alt="logo" />
+    <div className="container">
+      
+      <img className="logo" src="https://i.imgur.com/mMNUC5g.png" alt="logo" />
+      <div className="main">
         <ul className="list">
           <li> Inicio</li>
           <li> Nosotros</li>
